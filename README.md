@@ -15,7 +15,7 @@ Sections for skills, work experience, and contact information
 -Deployment: Vercel
 🚀 Usage
 Clone the repository
-git clone https://github.com/username/Portfolio.git
+git clone https://github.com/BankThanomsup/Portfolio.git
 cd Portfolio
 🎯 Goals
 -Continuously expand with new projects to enhance technical skills
