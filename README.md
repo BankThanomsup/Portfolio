@@ -1,23 +1,8 @@
-📁 Portfolio
--   A showcase of my projects, skills, and achievements
+# React + Vite
 
-🌟 About
--This repository serves as a central hub for showcasing my work, including personal projects, coding experiments, and accomplishments across various technologies.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-📚 Key Features
--Interactive web portfolio to highlight projects
--Responsive design for all devices
-Sections for skills, work experience, and contact information
-💻 Tech Stack
--Frontend: React
--Styling: TailwindCSS / ShadcnUI
--Backend : Node.js / Flask
--Deployment: Vercel
-🚀 Usage
-Clone the repository
-git clone https://github.com/BankThanomsup/Portfolio.git
-cd Portfolio
-🎯 Goals
--Continuously expand with new projects to enhance technical skills
--Improve coding practices and explore modern web technologies
--Keep track of personal progress and professional growth
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
