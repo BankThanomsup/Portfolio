@@ -1,62 +1,41 @@
 import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
-import picCat from '../assets/cat.jpg'
-import picTree from '../assets/tree.jpg'
-
+import picBmiBmr from '../assets/PicBmiBmr.png'
+import picExpress from "../assets/picExpress.png"
 export const data =[{
-    date:"2020-2021",
-    title:"Fullstack · Sport Analysis System",
+    date:"Aug 2023",
+    title:"BMI & BMR Calculator",
     link:"https://medium.com/@KDeelert/how-i-built-soccer-analyzer-tool-eng-55bf8a473248",
     materials:[
-        {type : faGithub, link:"https://github.com/BankThanomsup"},
-        {type : faMedium, link:"https://blackboy96.xyz/"},
-        {type : faYoutube, link:"https://blackboy96.xyz/"},
+        {type : faGithub, link:"https://github.com/BankThanomsup/bmr_bmi_calculator"},
     ],
 description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
-    "Developed and implemented real-time statistical analysis and automated betting systems",
+    "This is a program I developed based on my personal needs. The objective is that when we exercise, knowing our BMI and BMR allows us to understand how much we should eat each day and whether our body condition is within a healthy range, whether we are overweight or underweight. This makes it easier to design workout plans. Therefore, I developed this program to meet these objectives.",
 ],
 skills:[
-    ["React","Redux","MUI"],
-    ["NginX","NodeJS","Express","MongoDB"]
+    ["HTML","Bootstrap","JavaScript"]
 ],
-picture:[picCat]
+picture:[picBmiBmr]
 
 },
 
 {
-    date:"2019-2020",
-    title:"Fashion Ecommerce",
-    link:"",
+    date:"Oct 2024",
+    title:"Web App Development with Node.js & Express",
+    link:"https://github.com/BankThanomsup/Express-api",
     materials:[
-        {type : faGithub, link:"https://blackboy96.xyz/"},
+        {type : faGithub, link:"https://github.com/BankThanomsup/Express-api"},
+        {type : faYoutube, link:"https://www.youtube.com/watch?v=WQnXaqse-0c"},
     ],
 description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
+    "Create an API for managing products in an inventory management system using Node.js and Express, with MongoDB as the database.",
 ],
 skills:[
-
-    ["NginX","NodeJS","Express","MongoDB"]
+    ["HTML","CSS"],
+    ["NodeJS","Express","MongoDB"]
     
 ],
-picture:[picTree]
+picture:[picExpress]
 },
 
-{
-    date:"2018-2019",
-    title:"Fashion Ecommerce",
-    link:"",
-    materials:[
-        
-    ],
-description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
-],
-skills:[
-
-    ["NginX","NodeJS","Express","MongoDB"]
-    
-],
-picture:[picTree]
-}
 ]
 

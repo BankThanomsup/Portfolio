@@ -1,62 +1,61 @@
-import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
-import picCat from '../assets/cat.jpg'
-import picTree from '../assets/tree.jpg'
+import { faGithub, faMedium} from "@fortawesome/free-brands-svg-icons";
+import picPortfolio from '../assets/picPortfolio.png'
 
 export const data =[{
-    date:"2020-2021",
-    title:"Fullstack · Sport Analysis System",
-    link:"https://medium.com/@KDeelert/how-i-built-soccer-analyzer-tool-eng-55bf8a473248",
+    date:"Feb 2025",
+    title:"Building My Portfolio Website",
+    link:"https://medium.com/@thitikorn.thanomsup/building-my-portfolio-website-5f5572092d77",
     materials:[
-        {type : faGithub, link:"https://blackboy96.xyz/"},
-        {type : faMedium, link:"https://blackboy96.xyz/"},
-        {type : faYoutube, link:"https://blackboy96.xyz/"},
+        {type : faGithub, link:"https://github.com/BankThanomsup/Portfolio"},
+        {type : faMedium, link:"ttps://medium.com/@thitikorn.thanomsup/building-my-portfolio-website-5f5572092d77"},
+        // {type : faYoutube, link:""},
     ],
 description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
-    "Developed and implemented real-time statistical analysis and automated betting systems",
-],
-skills:[
-    ["React","Redux","MUI"],
-    ["NginX","NodeJS","Express","MongoDB"]
-],
-picture:[picCat]
-
-},
-
-{
-    date:"2019-2020",
-    title:"Fashion Ecommerce",
-    link:"",
-    materials:[
-        {type : faGithub, link:"https://blackboy96.xyz/"},
-    ],
-description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
-],
-skills:[
-
-    ["NginX","NodeJS","Express","MongoDB"]
+    "Since I’m planning to start applying for jobs. I started thinking about how to effectively market myself. I began by planning the necessary skills. Since I lack working experience in this field, the only thing I can do is to build experience through practice projects and gain an understanding of various concepts.",
     
 ],
-picture:[picTree]
-},
+skills:[
+    ["React","Tailwind","Vite"],
+    // ["NginX","NodeJS","Express","MongoDB"]
+],
+picture:[picPortfolio]
 
-{
-    date:"2018-2019",
-    title:"Fashion Ecommerce",
-    link:"",
-    materials:[
+}]
+
+// {
+//     date:"2019-2020",
+//     title:"Fashion Ecommerce",
+//     link:"",
+//     materials:[
+//         {type : faGithub, link:"https://blackboy96.xyz/"},
+//     ],
+// description:[
+//     "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
+// ],
+// skills:[
+
+//     ["NginX","NodeJS","Express","MongoDB"]
+    
+// ],
+// picture:[picTree]
+// },
+
+// {
+//     date:"2018-2019",
+//     title:"Fashion Ecommerce",
+//     link:"",
+//     materials:[
         
-    ],
-description:[
-    "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
-],
-skills:[
+//     ],
+// description:[
+//     "Developed a web scraping bot to extract real-time odds and various statistics for soccer matches.",
+// ],
+// skills:[
 
-    ["NginX","NodeJS","Express","MongoDB"]
+//     ["NginX","NodeJS","Express","MongoDB"]
     
-],
-picture:[picTree]
-}
-]
+// ],
+// picture:[picTree]
+// }
+// ]
 
