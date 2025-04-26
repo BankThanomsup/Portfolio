@@ -4,7 +4,7 @@ import picExpress from "../assets/picExpress.png"
 export const data =[{
     date:"Aug 2023",
     title:"BMI & BMR Calculator",
-    link:"https://medium.com/@KDeelert/how-i-built-soccer-analyzer-tool-eng-55bf8a473248",
+    link:"https://bmr-bmi-calculator-9ys7g92ew-bankthanomsups-projects.vercel.app/",
     materials:[
         {type : faGithub, link:"https://github.com/BankThanomsup/bmr_bmi_calculator"},
     ],

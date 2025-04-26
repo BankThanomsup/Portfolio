@@ -2,7 +2,7 @@ import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icon
 import picCertExpress from '../assets/Certificate-Express.png'
 import picCertJavaScript from '../assets/Certificate-JavaScript.png'
 import picCertGithub from '../assets/Certificate-GitHub.png'
-
+import picCertGithubCopilot from '../assets/GitHub Copilot_certificate.png'
 export const data =[{
     date:"Oct 2024",
     title:"Web App Development with Node.js & Express",
@@ -56,6 +56,19 @@ skills:[
     
 ],
 picture:[picCertGithub]
-}
+},
+{
+    date:" Mar 2025",
+    title:"Prompt Engineering with GitHub Copilot",
+    materials:[],
+description:[
+    "Completed Prompt Engineering with GitHub Copilot, learned to craft effective prompts and leverage AI tools to accelerate coding and problem-solving.",
+],
+skills:[
+    ["Git","GitHub Copilot","Developer Tools"]
+    
+],
+picture:[picCertGithubCopilot]
+},
 ]
 
