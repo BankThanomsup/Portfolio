@@ -3,6 +3,7 @@ import picCertExpress from '../assets/Certificate-Express.png'
 import picCertJavaScript from '../assets/Certificate-JavaScript.png'
 import picCertGithub from '../assets/Certificate-GitHub.png'
 import picCertGithubCopilot from '../assets/GitHub Copilot_certificate.png'
+import picCertPython from '../assets/python_basic_certificate.png'
 export const data =[{
     date:"Oct 2024",
     title:"Web App Development with Node.js & Express",
@@ -70,5 +71,20 @@ skills:[
 ],
 picture:[picCertGithubCopilot]
 },
+
+{
+    date:" Aug 2025",
+    title:"Certified Python Accomplishment",
+    materials:[],
+description:[
+    "It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes, Functions, and Error Handling.",
+],
+skills:[
+    ["Python"]
+    
+],
+picture:[picCertPython]
+},
+
 ]
 

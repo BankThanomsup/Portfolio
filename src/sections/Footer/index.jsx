@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex justify-end">
             <a href="https://github.com/BankThanomsup"  target="_blank">
              <span>
-                Powered by React.js and Tailwind
+                Developed with React.js and Tailwind CSS
                 <FontAwesomeIcon className="ml-2" icon={faGithub}/>
             </span>    
             </a>

@@ -27,7 +27,7 @@ skills:[
 },
 
 {
-    date:"Oct 2024 - Mar 2024",
+    date:"Sep 2022 - Mar 2024",
     title:"Software Tester and Application Support",
     // link:"",
     // materials:[
@@ -56,8 +56,9 @@ picture:[picTR]
         
     // ],
 description:[
-    "• Created API tests using Postman.",
+    "• Designed and maintained reusable Postman collections for automated REST API testing, using environments, scripts, and data-driven tests.",
     "• Developed test cases, test scripts, and test scenarios.",
+    "• Generate scripts to perform automated testing cycles using Robot framework, Python, Shell Script.",
     "• Executed tests and reported results to the regression team.",
     "• Conducted testing for web and mobile applications using Appium and Robot Framework.",
     "• Utilized UFT One for automating functional and regression testing across web.",
@@ -66,8 +67,8 @@ description:[
 ],
 skills:[
 
-    ["Python","XML","Excel","SQL","MongoDB","Oracle"],
-    ["Robot framework","Appium","UFT ONE","Jenkins"],
+    ["Javascript","NodeJS","Python","XML","Excel","SQL","MongoDB","Oracle"],
+    ["Robot framework","Playwright","Appium","UFT ONE","Jenkins"],
     
 ],
 picture:[picEk]

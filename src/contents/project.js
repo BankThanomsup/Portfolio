@@ -1,6 +1,7 @@
 import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
 import picBmiBmr from '../assets/PicBmiBmr.png'
 import picExpress from "../assets/picExpress.png"
+import PicCamping from "../assets/PicCamping.png"
 export const data =[{
     date:"Aug 2023",
     title:"BMI & BMR Calculator",
@@ -35,6 +36,23 @@ skills:[
     
 ],
 picture:[picExpress]
+},
+
+{
+    date:"Jul 2025",
+    title:"React Camping Workshop",
+    link:"https://github.com/BankThanomsup/Express-api",
+    materials:[
+        {type : faGithub, link:"https://github.com/BankThanomsup/React-camping-workshop"},
+    ],
+description:[
+    "A comprehensive camping reservation web application built with React. Features include user authentication (login/logout), camping site booking system, payment processing, receipt printing functionality, and dynamic data filtering by categories. The application provides a complete booking experience from site selection to payment confirmation with responsive design and intuitive user interface.",
+],
+skills:[
+    ["Vite","Tailwind CSS","Clerk","Zod","Zustand","Prisma","Mysql"],
+    ["React","React Router","React Leaflet","State Management"]
+],
+picture:[PicCamping]
 },
 
 ]
