@@ -41,7 +41,7 @@ picture:[picExpress]
 {
     date:"Jul 2025",
     title:"React Camping Workshop",
-    link:"https://github.com/BankThanomsup/Express-api",
+    link:"https://github.com/BankThanomsup/React-camping-workshop",
     materials:[
         {type : faGithub, link:"https://github.com/BankThanomsup/React-camping-workshop"},
     ],
